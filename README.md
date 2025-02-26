@@ -58,11 +58,11 @@ This guide details the steps to build the RapidoTZ hotend, a modified Bambu Lab 
 8.  **Electrical and Mechanical Installation:**
     * Connect the two heater plates in parallel.
     * Install the modified hotend into the printer's toolhead.
-    * Remember to adjust the Z-probe position.
     * Use a multimeter to check for short circuits in all wiring.
 
 9.  **Klipper Configuration:**
     * Configure Klipper settings, including Z-probe offset.
+    * Remember to adjust the Z-probe position.
     * Perform a PID tune of the hotend.
     * Enjoy printing!
 
