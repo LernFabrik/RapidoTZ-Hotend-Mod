@@ -2,6 +2,9 @@
 
 This guide details the steps to build the RapidoTZ hotend, a modified Bambu Lab TZ 2.0 hotend with an extended melt zone using a Volcano nozzle and copper nuts, effectively transforming it into a Rapido V2.0-like hotend.
 
+## Video
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3yPbn_64liQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Materials Needed
 
 * Bambu Lab TZ 2.0 Hotend ([Aliexpress](https://de.aliexpress.com/w/wholesale-TZ-hotend.html))
