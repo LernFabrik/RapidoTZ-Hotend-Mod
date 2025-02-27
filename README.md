@@ -1,7 +1,7 @@
 # RapidoTZ Hotend Construction Guide
 
 This guide details the steps to build the RapidoTZ hotend, a modified Bambu Lab TZ 2.0 hotend with an extended melt zone using a Volcano nozzle and copper nuts, effectively transforming it into a Rapido V2.0-like hotend.
-Facing layer [adhesion}(https://youtu.be/PPyiACzsLWM?si=C5Oih0QtXfa8OBcW&t=306) problems and flow rate drop-off.
+Facing layer [adhesion](https://youtu.be/PPyiACzsLWM?si=C5Oih0QtXfa8OBcW&t=306) problems and flow rate drop-off.
 * The hotend costs about €12 in total.
 * 1 hour to build the hotend mod.
 
