@@ -7,12 +7,12 @@ This guide details the steps to build the RapidoTZ hotend, a modified Bambu Lab 
 
 ## Materials Needed
 
-* Bambu Lab TZ 2.0 Hotend ([Aliexpress](https://de.aliexpress.com/w/wholesale-TZ-hotend.html))
-* Additional 40-50W Heater (Bambu Lab compatible, [Aliexpress](https://de.aliexpress.com/w/wholesale-bambulab-heater-50W.html))
+* Bambu Lab TZ 2.0 Hotend with Heater and Thermistor ([Aliexpress](https://de.aliexpress.com/w/wholesale-TZ-hotend.html))
+* Additional 40-50W Heater (Bambu Lab compatible, [Aliexpress](https://de.aliexpress.com/w/wholesale-bambulab-heater-50W.html), Sum: 100W to 120W heating )
 * Volcano Nozzle
-* Two M6 Copper Nuts (ideal)
+* Two M6 Copper Nuts (alternative Steel Nuts, thx to [CNC Kitchen](https://www.youtube.com/watch?v=_Soz8z-vAIw))
 * High Temperature Silicone (up to 450°C, e.g., [TFC-Troll-Factory-Silikon-Kautschuk-Typ-3](https://trollfactory.de/Produkte/Silikon-Kautschuk/Verarbeitungszeit/sehr-schnell-5-Min/TFC4021/TFC-Troll-Factory-Silikon-Kautschuk-Typ-3-HB-Zinnguss-hitzebestaendig-RTV-1-1-Groesse-1kg-2x500g))
-* Two M3 Screws (6mm length)
+* Two M3 Screws (6mm length for Silicon Sock Mold)
 * Syringe 20 ml
 * [PETG Printed Silicone Sock Mold](https://github.com/LernFabrik/RapidoTZ-Hotend-Mod/tree/main/stl)
 * [Voron Stealthburner Bambu Printhead Volcano Mod](https://github.com/LernFabrik/RapidoTZ-Hotend-Mod/tree/main/stl): Hotend Front
