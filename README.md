@@ -14,9 +14,9 @@ This guide details the steps to build the RapidoTZ hotend, a modified Bambu Lab 
 * High Temperature Silicone (up to 450°C, e.g., [TFC-Troll-Factory-Silikon-Kautschuk-Typ-3](https://trollfactory.de/Produkte/Silikon-Kautschuk/Verarbeitungszeit/sehr-schnell-5-Min/TFC4021/TFC-Troll-Factory-Silikon-Kautschuk-Typ-3-HB-Zinnguss-hitzebestaendig-RTV-1-1-Groesse-1kg-2x500g))
 * Two M3 Screws (6mm length)
 * Syringe 20 ml
-* ([PETG Printed Silicone Sock Mold](https://github.com/LernFabrik/RapidoTZ-Hotend-Mod/tree/main/stl))
-* Optional ([Voron Stealthburner Bambu Printhead Volcano Mod](https://github.com/LernFabrik/RapidoTZ-Hotend-Mod/tree/main/stl))
-* Optional ([Voron Stealthburner Bambu Printhead](https://www.printables.com/model/322091-voron-stealthburner-printhead-for-bambu-x1cx1-hote))
+* [PETG Printed Silicone Sock Mold](https://github.com/LernFabrik/RapidoTZ-Hotend-Mod/tree/main/stl)
+* optional ([Voron Stealthburner Bambu Printhead Volcano Mod](https://github.com/LernFabrik/RapidoTZ-Hotend-Mod/tree/main/stl)
+* optional ([Voron Stealthburner Bambu Printhead](https://www.printables.com/model/322091-voron-stealthburner-printhead-for-bambu-x1cx1-hote), Hotend holder and Fan Cover
 
 ## Tools
 
