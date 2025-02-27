@@ -16,7 +16,7 @@ This guide details the steps to build the RapidoTZ hotend, a modified Bambu Lab 
 * Syringe 20 ml
 * [PETG Printed Silicone Sock Mold](https://github.com/LernFabrik/RapidoTZ-Hotend-Mod/tree/main/stl)
 * optional [Voron Stealthburner Bambu Printhead Volcano Mod](https://github.com/LernFabrik/RapidoTZ-Hotend-Mod/tree/main/stl)
-* optional [Voron Stealthburner Bambu Printhead](https://www.printables.com/model/322091-voron-stealthburner-printhead-for-bambu-x1cx1-hote), Hotend holder and Fan Cover
+* optional [Voron Stealthburner Bambu Printhead](https://www.printables.com/model/322091-voron-stealthburner-printhead-for-bambu-x1cx1-hote): Hotend holder and Fan Cover
 
 ## Tools
 
